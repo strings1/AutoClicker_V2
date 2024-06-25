@@ -18,3 +18,13 @@ C:\Projects\IP\IP_L5\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.csproj.
 C:\Projects\IP\IP_L5\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.csproj.CoreCompileInputs.cache
 C:\Projects\IP\IP_L5\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.exe
 C:\Projects\IP\IP_L5\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.pdb
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\bin\Debug\AutoClickerV2.exe.config
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\bin\Debug\AutoClickerV2.exe
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\bin\Debug\AutoClickerV2.pdb
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.csproj.AssemblyReference.cache
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.AutoClickerV2.resources
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.Properties.Resources.resources
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.csproj.GenerateResource.cache
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.csproj.CoreCompileInputs.cache
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.exe
+C:\Projects\AutoClicker_V2\AutoClickerV2\AutoClickerV2\obj\Debug\AutoClickerV2.pdb
